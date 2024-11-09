@@ -72,8 +72,13 @@ button:hover{
 
 }
 
+a {
+    width: 360px;
+    /* height: 200px; */
+}
 img {
-    
+    height: 220px;
+    width: 360px;
 }
 .gallery_item {
     border: 1px solid #808080;
